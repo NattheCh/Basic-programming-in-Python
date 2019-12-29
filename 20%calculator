@@ -1,8 +1,0 @@
-def square(x):
-    y = x * 20/100
-    return y
-
-print('Input number ')
-to_square = float(input())
-square_result = square(to_square)
-print('20% of ', to_square, 'is ', float(square_result))

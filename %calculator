@@ -1,0 +1,13 @@
+def square(x, z):
+    y = x * z
+    return y
+def percent():
+    y = float(input())
+    return y/100
+
+print('Input percent ')
+getPercent = percent()
+print('Input number ')
+to_square = float(input())
+square_result = square(to_square, getPercent)
+print(square_result)
