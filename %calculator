@@ -1,4 +1,4 @@
-def square(x, z):
+def getValue(x, z):
     y = x * z
     return y
 def percent():
@@ -8,6 +8,6 @@ def percent():
 print('Input percent ')
 getPercent = percent()
 print('Input number ')
-to_square = float(input())
-square_result = square(to_square, getPercent)
-print(square_result)
+to_getValue = float(input())
+getValue_result = getValue(to_getValue, getPercent)
+print(getValue_result)
