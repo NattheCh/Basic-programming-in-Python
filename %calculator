@@ -5,9 +5,11 @@ def percent():
     y = float(input())
     return y/100
 
+
 print('Input percent ')
 getPercent = percent()
-print('Input number ')
-to_getValue = float(input())
-getValue_result = getValue(to_getValue, getPercent)
-print(getValue_result)
+while True:
+    print('Input number ')
+    to_getValue = float(input())
+    getValue_result = getValue(to_getValue, getPercent)
+    print(getValue_result)
