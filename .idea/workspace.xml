@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ee4e5e9-d745-4659-a218-3ddf02822dc7" name="Default Changelist" comment="">
+    <list default="true" id="8ee4e5e9-d745-4659-a218-3ddf02822dc7" name="Default Changelist" comment="Adding sorting list of books to myListofBooks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myListofBooks.py" beforeDir="false" afterPath="$PROJECT_DIR$/myListofBooks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.myListofBooks">
+  <component name="RunManager" selected="Python.projectUsingList">
     <configuration name="myListofBooks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic programming in Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,6 +45,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myListofBooks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="projectUsingList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Basic programming in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/projectUsingList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.projectUsingList" />
         <item itemvalue="Python.myListofBooks" />
         <item itemvalue="Python.test" />
       </list>
@@ -133,47 +154,83 @@
       <option name="project" value="LOCAL" />
       <updated>1583527823401</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding sorting list of books to myListofBooks">
+      <created>1584131496075</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1584131496075</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding new projectUsingList">
+      <created>1585511626256</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585511626256</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding file operations to myListofBooks" />
     <MESSAGE value="Update Readme file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Readme file" />
+    <MESSAGE value="Adding sorting list of books to myListofBooks" />
+    <MESSAGE value="Adding new projectUsingList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding new projectUsingList" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583526745283">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1583526745283" />
-    <state x="376" y="24" key="CommitChangelistDialog2" timestamp="1583527821021">
+    <state x="376" y="24" key="CommitChangelistDialog2" timestamp="1585511762552">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="376" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1583527821021" />
+    <state x="376" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1585511762552" />
     <state x="625" y="323" key="Github.ShareDialog" timestamp="1583269329302">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="625" y="323" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1583269329302" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1584131382407">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1585511410916">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584131382407" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1584131382405">
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585511410916" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1585511410916">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1584131382405" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1584131382404">
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585511410916" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1585511410915">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1584131382404" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1584131382406">
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585511410915" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1585511410916">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1584131382406" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1583527829919">
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585511410916" />
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1584471950530">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1583527829919" />
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584471950530" />
+    <state width="1579" height="276" key="GridCell.Tab.1.center" timestamp="1584471950529">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1584471950529" />
+    <state width="1579" height="276" key="GridCell.Tab.1.left" timestamp="1584471950529">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1584471950529" />
+    <state width="1579" height="276" key="GridCell.Tab.1.right" timestamp="1584471950530">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1584471950530" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1585511665519">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1585511665519" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1585488764520">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1585488764520" />
     <state x="630" y="220" key="svn.repositoryBrowser" timestamp="1583269311078">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
