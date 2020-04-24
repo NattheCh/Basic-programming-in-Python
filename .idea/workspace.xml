@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ee4e5e9-d745-4659-a218-3ddf02822dc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/currentStatus.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webScraping.py" afterDir="false" />
+    <list default="true" id="8ee4e5e9-d745-4659-a218-3ddf02822dc7" name="Default Changelist" comment="First web scraping application">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currentStatus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/currentStatus.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,70 @@
       <recent name="E:\Projekty programowanie\Basic programming in Python\Basic-programming-in-Python\venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.webScraping">
+  <component name="RunManager" selected="Python.pieChart">
+    <configuration name="barChart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Basic programming in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/barChart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bargGraph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Basic programming in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\Projekty programowanie\Basic programming in Python\Basic-programming-in-Python\barChart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chart&amp;graph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Basic programming in Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\Projekty programowanie\Basic programming in Python\Basic-programming-in-Python\chartGraph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="listInPicture" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic programming in Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pageCovi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pieChart" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic programming in Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,70 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pageCovi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sortSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Basic programming in Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sortSort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="webScraping" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Basic programming in Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/webScraping.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="zeroRight" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Basic programming in Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zeroRight.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pieChart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,10 +144,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.webScraping" />
-        <item itemvalue="Python.pageCovi" />
-        <item itemvalue="Python.sortSort" />
-        <item itemvalue="Python.zeroRight" />
+        <item itemvalue="Python.pieChart" />
+        <item itemvalue="Python.barChart" />
+        <item itemvalue="Python.bargGraph" />
+        <item itemvalue="Python.chart&amp;graph" />
         <item itemvalue="Python.listInPicture" />
       </list>
     </recent_temporary>
@@ -225,7 +224,56 @@
       <option name="project" value="LOCAL" />
       <updated>1585512102571</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="First web scraping application">
+      <created>1586981486784</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1586981486784</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Exercise with matrix">
+      <created>1587380496220</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587380496235</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Exercise with matrix">
+      <created>1587380595026</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587380595026</updated>
+    </task>
+    <task id="LOCAL-00011" summary="First chart graph">
+      <created>1587755252415</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587755252415</updated>
+    </task>
+    <task id="LOCAL-00012" summary="First bar chart">
+      <created>1587755459021</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587755459021</updated>
+    </task>
+    <task id="LOCAL-00013" summary="First pie chart">
+      <created>1587755530834</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587755530834</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update">
+      <created>1587755631592</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587755631592</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,61 +282,68 @@
     <MESSAGE value="Adding sorting list of books to myListofBooks" />
     <MESSAGE value="Adding new projectUsingList" />
     <MESSAGE value="Adding description of new project in Readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding description of new project in Readme" />
+    <MESSAGE value="First web scraping application" />
+    <MESSAGE value="Exercise with matrix" />
+    <MESSAGE value="First chart graph" />
+    <MESSAGE value="First bar chart" />
+    <MESSAGE value="First pie chart" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586972971926">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1586972971926" />
-    <state x="376" y="24" key="CommitChangelistDialog2" timestamp="1585512100055">
+    <state x="376" y="24" key="CommitChangelistDialog2" timestamp="1587755682278">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="376" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1585512100055" />
+    <state x="376" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1587755682278" />
     <state x="625" y="323" key="Github.ShareDialog" timestamp="1583269329302">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="625" y="323" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1583269329302" />
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom" timestamp="1586981385451">
+    <state width="1579" height="311" key="GridCell.Tab.0.bottom" timestamp="1587755077421">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586981385451" />
-    <state width="1579" height="222" key="GridCell.Tab.0.center" timestamp="1586981385451">
+    <state width="1579" height="311" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587755077421" />
+    <state width="1579" height="311" key="GridCell.Tab.0.center" timestamp="1587755077421">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586981385451" />
-    <state width="1579" height="222" key="GridCell.Tab.0.left" timestamp="1586981385451">
+    <state width="1579" height="311" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1587755077421" />
+    <state width="1579" height="311" key="GridCell.Tab.0.left" timestamp="1587755077421">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586981385451" />
-    <state width="1579" height="222" key="GridCell.Tab.0.right" timestamp="1586981385451">
+    <state width="1579" height="311" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1587755077421" />
+    <state width="1579" height="311" key="GridCell.Tab.0.right" timestamp="1587755077421">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586981385451" />
-    <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1584471950530">
+    <state width="1579" height="311" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1587755077421" />
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1587329144463">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1584471950530" />
-    <state width="1579" height="276" key="GridCell.Tab.1.center" timestamp="1584471950529">
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1587329144463" />
+    <state width="1579" height="276" key="GridCell.Tab.1.center" timestamp="1587329144463">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1584471950529" />
-    <state width="1579" height="276" key="GridCell.Tab.1.left" timestamp="1584471950529">
+    <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1587329144463" />
+    <state width="1579" height="276" key="GridCell.Tab.1.left" timestamp="1587329144463">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1584471950529" />
-    <state width="1579" height="276" key="GridCell.Tab.1.right" timestamp="1584471950530">
+    <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1587329144463" />
+    <state width="1579" height="276" key="GridCell.Tab.1.right" timestamp="1587329144463">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1584471950530" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1585512122259">
+    <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1587329144463" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1587755708495">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1585512122259" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1586981416461">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1587755708495" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1587490155528">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1586981416461" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.860/1600.0.1920.1160@0.0.1600.860" timestamp="1587198653785" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1587490155528" />
     <state x="630" y="220" key="svn.repositoryBrowser" timestamp="1583269311078">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
