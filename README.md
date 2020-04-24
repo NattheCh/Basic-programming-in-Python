@@ -6,3 +6,5 @@ Basic programming in Python
 **myListofBooks** - the program was created to prepare a list of books in my home library. The program allows to add new books into the list and orders the titles
 
 **projectUsingList** - the program was created to convert list of strings into sentence
+
+**webScrapping** - the program takes the amount of infected people and deaths due to coronavirus and upload the value in file 'currentStatus'
