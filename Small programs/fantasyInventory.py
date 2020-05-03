@@ -1,4 +1,4 @@
-all_items = {'arrows' : 12, 'gold coins' : 42, 'rope' : 1, 'torch': 6, 'dagger' : 1}
+all_items = {'arrow' : 12, 'gold coin' : 42, 'rope' : 1, 'torch': 6, 'dagger' : 1}
 
 
 def displayInventory(inventory):
@@ -11,3 +11,15 @@ def displayInventory(inventory):
 
 
 displayInventory(all_items)
+
+
+def addToInventory(inventory, addedItems):
+    for k in addedItems:
+        inventory.setdefault(k, 0)
+        inventory[k] = inventory[k] + 1
+
+
+dragonLoot = ['gold coin', 'dagger', 'gold coin', 'gold coin', 'ruby']
+addToInventory(all_items, dragonLoot)
+displayInventory(all_items)
+
