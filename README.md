@@ -7,4 +7,10 @@ Basic programming in Python
 
 **projectUsingList** - the program was created to convert list of strings into sentence
 
-**webScrapping** - the program takes the amount of infected people and deaths due to coronavirus and upload the value in file 'currentStatus'
+**webScraping** - the program takes the amount of infected people and deaths due to coronavirus and upload the value in file 'currentStatus'
+
+**charts** - different types of basic charts
+
+**fantasyInventory** - adding new items to the library
+
+**appGUI** - first basic GUI app in Python
