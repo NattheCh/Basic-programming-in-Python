@@ -13,4 +13,4 @@ Basic programming in Python
 
 **fantasyInventory** - adding new items to the library
 
-**appGUI** - first basic GUI app in Python
+**appGUI** - first basic GUI window app in Python
