@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8ee4e5e9-d745-4659-a218-3ddf02822dc7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/appGUI.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
       <recent name="E:\Projekty programowanie\Basic programming in Python\Basic-programming-in-Python\venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fantasyInventory">
+  <component name="RunManager" selected="Python.appGUI">
     <configuration name="appGUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic programming in Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="bargGraph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="chartGraph" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Basic programming in Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Charts" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="E:\Projekty programowanie\Basic programming in Python\Basic-programming-in-Python\Charts\barChart.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Charts/chartGraph.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fantasyInventory" />
         <item itemvalue="Python.appGUI" />
+        <item itemvalue="Python.chartGraph" />
+        <item itemvalue="Python.fantasyInventory" />
         <item itemvalue="Python.pieChart" />
         <item itemvalue="Python.barChart" />
-        <item itemvalue="Python.bargGraph" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +318,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590434196378</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Commit">
+      <created>1590434375101</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1590434375101</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -343,30 +350,30 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="176" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1586972971926" />
-    <state x="376" y="24" key="CommitChangelistDialog2" timestamp="1590434194339">
+    <state x="376" y="24" key="CommitChangelistDialog2" timestamp="1590434373071">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="376" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1590434194339" />
+    <state x="376" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1590434373071" />
     <state x="625" y="323" key="Github.ShareDialog" timestamp="1583269329302">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="625" y="323" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1583269329302" />
-    <state width="1579" height="311" key="GridCell.Tab.0.bottom" timestamp="1590434020569">
+    <state width="1579" height="311" key="GridCell.Tab.0.bottom" timestamp="1590437193754">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="311" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590434020569" />
-    <state width="1579" height="311" key="GridCell.Tab.0.center" timestamp="1590434020568">
+    <state width="1579" height="311" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590437193754" />
+    <state width="1579" height="311" key="GridCell.Tab.0.center" timestamp="1590437193751">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="311" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590434020568" />
-    <state width="1579" height="311" key="GridCell.Tab.0.left" timestamp="1590434020567">
+    <state width="1579" height="311" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590437193751" />
+    <state width="1579" height="311" key="GridCell.Tab.0.left" timestamp="1590437193749">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="311" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590434020567" />
-    <state width="1579" height="311" key="GridCell.Tab.0.right" timestamp="1590434020569">
+    <state width="1579" height="311" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590437193749" />
+    <state width="1579" height="311" key="GridCell.Tab.0.right" timestamp="1590437193753">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1579" height="311" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590434020569" />
+    <state width="1579" height="311" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590437193753" />
     <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1588538852233">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -383,10 +390,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1588538852233" />
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1590434205757">
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1590434380811">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1590434205757" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1590434380811" />
     <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1588503089348">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
