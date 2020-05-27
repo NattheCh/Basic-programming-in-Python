@@ -1,22 +1,34 @@
 from tkinter import *
 
 window = Tk()
+window.title('Color check')
+window.geometry('250x150')
+window.resizable(0, 0)
+label = Label(window, text='Enter the color')
+label.pack()
 
+basicColors = ['blue', 'red', 'green']
 
-window.title('Colour word')
-window.geometry('200x150')
-label = Label(window, text='Enter the color - blue'.center(50))
-label.grid(column=0, row=0)
-txtColor = Entry(window, width=20)
-txtColor.grid(column=0, row=1)
 def clicked():
-    if txtColor.get() == 'blue':
-        label.configure(text='Button checked'.center(50))
+    if txtColor.get() in basicColors:
+        answer.set('CORRECT!')
+        labelAnswer.config(fg=txtColor.get(), font='Arial 13 bold')
+    elif txtColor.get() == '':
+        answer.set('Fill in the field')
+        labelAnswer.config(fg='red', font='Arial 13 bold')
     else:
-        label.configure(text='Not correct'.center(50))
+        answer.set('Incorrect')
+        labelAnswer.config(fg='red', font='Arial 13 bold')
 
+
+txtColor = Entry(window, width=20)
+txtColor.pack()
 
 pressButton = Button(window, text='Confirm', command=clicked)
-pressButton.grid(column=0, row=2)
+pressButton.pack()
+
+answer = StringVar()
+labelAnswer = Label(window, textvariable=answer)
+labelAnswer.pack()
 
 window.mainloop()
