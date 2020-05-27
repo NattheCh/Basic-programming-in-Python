@@ -9,6 +9,7 @@ label.pack()
 
 basicColors = ['blue', 'red', 'green']
 
+
 def clicked():
     if txtColor.get() in basicColors:
         answer.set('CORRECT!')
